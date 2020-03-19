@@ -19,10 +19,20 @@ public class AppiumTest {
 	}
 	
 	@Test
+	public void NativeAPpAndroidSN()
+	{
+		System.out.println("NativeAPpAndroid");
+		
+		System.out.println("NativeAPpAndroid");
+	}
+	
+	@Test
 	public void IOSApps()
 	{
 		System.out.println("IOSApps");	
 		
+		System.out.println("IOSApps");	
+		System.out.println("IOSApps");	
 		System.out.println("IOSApps");	
 		System.out.println("IOSApps");	
 		
